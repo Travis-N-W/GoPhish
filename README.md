@@ -1,10 +1,10 @@
 # GoPhish
 
-## 📸 Project Screenshots
-Click [here](https://github.com/Travis-N-W/GoPhish/tree/main/screenshots) to view all screenshots.
-
 ## Disclaimer
 This project is intended for educational and ethical testing purposes only. Unauthorized use of phishing techniques for malicious activities is illegal and punishable by law. Always obtain proper authorization before conducting any security assessments.
+
+## 📸 Project Screenshots
+Click [here](https://github.com/Travis-N-W/GoPhish/tree/main/screenshots) to view all screenshots.
 
 ## Brief Objective
 
