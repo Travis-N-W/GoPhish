@@ -77,5 +77,4 @@ By configuring the sending profile, creating a landing page resembling Instagram
 - Access the GoPhish dashboard.
 - View metrics such as email opens, click-through rates, and captured credentials.
 
-## Conclusion
-This project successfully demonstrated a phishing attack simulation using GoPhish. By following these steps, security professionals can educate users about phishing threats and improve cybersecurity awareness within organizations.
+
